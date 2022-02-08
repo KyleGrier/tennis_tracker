@@ -6,7 +6,7 @@
 ---
 
 ## Installation
-Install the requirements using the requirements or configure them yourself.
+Install the requirements using the requirements or configure them yourself. Tested using python==3.8.
 
 ```bash
 pip install -r requirements.txt
